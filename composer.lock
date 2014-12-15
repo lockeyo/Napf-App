@@ -305,12 +305,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "d85eb15912c464573b77db67e6327ade03b399fe"
+                "reference": "1e708c25760267d98cd7a2e042a15ced47fe0409"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/d85eb15912c464573b77db67e6327ade03b399fe",
-                "reference": "d85eb15912c464573b77db67e6327ade03b399fe",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/1e708c25760267d98cd7a2e042a15ced47fe0409",
+                "reference": "1e708c25760267d98cd7a2e042a15ced47fe0409",
                 "shasum": ""
             },
             "require": {
@@ -322,7 +322,7 @@
                 "ircmaxell/password-compat": "~1.0",
                 "jeremeamia/superclosure": "~1.0.1",
                 "league/flysystem": "~1.0",
-                "monolog/monolog": "~1.6",
+                "monolog/monolog": "~1.11",
                 "mtdowling/cron-expression": "~1.0",
                 "nesbot/carbon": "~1.0",
                 "patchwork/utf8": "~1.1",
@@ -412,7 +412,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2014-12-14 01:18:20"
+            "time": "2014-12-15 20:59:00"
         },
         {
             "name": "league/flysystem",
@@ -420,12 +420,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "0c4ea0e83b45c13044edfe1d76ea21f0be2facea"
+                "reference": "044791c5672dab94c880420aca43691b7af025fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/0c4ea0e83b45c13044edfe1d76ea21f0be2facea",
-                "reference": "0c4ea0e83b45c13044edfe1d76ea21f0be2facea",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/044791c5672dab94c880420aca43691b7af025fa",
+                "reference": "044791c5672dab94c880420aca43691b7af025fa",
                 "shasum": ""
             },
             "require": {
@@ -500,7 +500,7 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2014-12-14 19:59:44"
+            "time": "2014-12-14 21:31:36"
         },
         {
             "name": "monolog/monolog",
@@ -508,12 +508,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "1cb39eedb5949989df860441e3b0bd3bcf0c2a0e"
+                "reference": "a6e82ad0f783782f43b615512948eb7742c6111f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/1cb39eedb5949989df860441e3b0bd3bcf0c2a0e",
-                "reference": "1cb39eedb5949989df860441e3b0bd3bcf0c2a0e",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/a6e82ad0f783782f43b615512948eb7742c6111f",
+                "reference": "a6e82ad0f783782f43b615512948eb7742c6111f",
                 "shasum": ""
             },
             "require": {
@@ -572,7 +572,7 @@
                 "logging",
                 "psr-3"
             ],
-            "time": "2014-12-13 13:54:24"
+            "time": "2014-12-15 21:41:51"
         },
         {
             "name": "mtdowling/cron-expression",
@@ -2007,12 +2007,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "8da607e5bbcd355ab8b173d4398bd1dd6f688f2f"
+                "reference": "fbbc0b11598176ef23b652c98d7dae343eb46436"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/8da607e5bbcd355ab8b173d4398bd1dd6f688f2f",
-                "reference": "8da607e5bbcd355ab8b173d4398bd1dd6f688f2f",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/fbbc0b11598176ef23b652c98d7dae343eb46436",
+                "reference": "fbbc0b11598176ef23b652c98d7dae343eb46436",
                 "shasum": ""
             },
             "require": {
@@ -2071,7 +2071,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2014-12-08 09:42:37"
+            "time": "2014-12-15 14:24:59"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
@@ -2250,12 +2250,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/environment.git",
-                "reference": "6e6c71d918088c251b181ba8b3088af4ac336dd7"
+                "reference": "a4420fdad8ef5e525cdeb66adbb5ed9e873e6128"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/6e6c71d918088c251b181ba8b3088af4ac336dd7",
-                "reference": "6e6c71d918088c251b181ba8b3088af4ac336dd7",
+                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/a4420fdad8ef5e525cdeb66adbb5ed9e873e6128",
+                "reference": "a4420fdad8ef5e525cdeb66adbb5ed9e873e6128",
                 "shasum": ""
             },
             "require": {
@@ -2292,7 +2292,7 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2014-10-25 08:00:45"
+            "time": "2014-12-15 10:20:32"
         },
         {
             "name": "sebastian/exporter",
