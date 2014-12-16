@@ -11,176 +11,154 @@ class ItemsTableSeeder extends Seeder {
         // Knoppers
         Items::create( [
             'name' => 'Knoppers' ,
-            'price' => '0.35' ,
-            'image' => 'images/knoppers.jpg' ,
+            'price' => '35' ,
             'available' => true
         ]);
 
         // Leibniz Butterkeks
         Items::create( [
             'name' => 'Leibniz Butterkeks' ,
-            'price' => '0.70' ,
-            'image' => 'images/leibniz_butterkeks.jpg' ,
+            'price' => '70' ,
             'available' => true
         ]);
 
         // Lion
         Items::create( [
             'name' => 'Lion' ,
-            'price' => '0.60' ,
-            'image' => 'images/lion.jpg' ,
+            'price' => '60' ,
             'available' => true
         ]);
 
         // KitKat Chunky
         Items::create( [
             'name' => 'KitKat Chunky' ,
-            'price' => '0.70' ,
-            'image' => 'images/kitkat_chunky.jpg' ,
+            'price' => '70' ,
             'available' => true
         ]);
 
         // M&M's alle Sorten
         Items::create( [
             'name' => 'M&M`s alle Sorten' ,
-            'price' => '0.35' ,
-            'image' => 'images/mandms.jpg' ,
+            'price' => '35' ,
             'available' => true
         ]);
 
         // Manner Neapol. Waffeln
         Items::create( [
-            'name' => 'Manner Naapolitaner  Waffeln' ,
-            'price' => '1.00' ,
-            'image' => 'images/neapolitaner_waffeln.jpg' ,
+            'name' => 'Manner Neapol. Waffeln' ,
+            'price' => '100' ,
             'available' => true
         ]);
 
         // Maoam
         Items::create( [
             'name' => 'Maoam' ,
-            'price' => '0.20' ,
-            'image' => 'images/maoam.jpg' ,
+            'price' => '20' ,
             'available' => true
         ]);
 
         // Maoam - Kracher
         Items::create( [
             'name' => 'Maoam - Kracher' ,
-            'price' => '0.75' ,
-            'image' => 'images/maoam_kracher.jpg' ,
+            'price' => '75' ,
             'available' => true
         ]);
 
         // Mars (alle Sorten)
         Items::create( [
             'name' => 'Mars (alle Sorten)' ,
-            'price' => '0.60' ,
-            'image' => 'images/mars.jpg' ,
+            'price' => '60' ,
             'available' => true
         ]);
 
         // Milky Way Doppelpack
         Items::create( [
             'name' => 'Milky Way Doppelpack' ,
-            'price' => '0.70' ,
-            'image' => 'images/milky_way.jpg' ,
+            'price' => '70' ,
             'available' => true
         ]);
 
         // Mr. Tom
         Items::create( [
             'name' => 'Mr. Tom' ,
-            'price' => '0.40' ,
-            'image' => 'images/mr_tom.jpg' ,
+            'price' => '40' ,
             'available' => true
         ]);
 
         // MyMuesli2go
         Items::create( [
             'name' => 'MyMuesli2Go' ,
-            'price' => '2.00' ,
-            'image' => 'images/mymuesli2go.jpg' ,
+            'price' => '200' ,
             'available' => true
         ]);
 
         // Nestle Snack
         Items::create( [
             'name' => 'Nestle Snack' ,
-            'price' => '0.50' ,
-            'image' => 'images/nestlesnack.jpg' ,
+            'price' => '50' ,
             'available' => true
         ]);
 
         // Nimm 2 Lolly
         Items::create( [
             'name' => 'Nimm 2 Lolly' ,
-            'price' => '0.25' ,
-            'image' => 'images/nimm2lolly.jpg' ,
+            'price' => '25' ,
             'available' => true
         ]);
 
         // Nuts
         Items::create( [
             'name' => 'Nuts' ,
-            'price' => '0.60' ,
-            'image' => 'images/nuts.jpg' ,
+            'price' => '60' ,
             'available' => true
         ]);
 
         // Pick up Choco
         Items::create( [
             'name' => 'Pick up Choco' ,
-            'price' => '0.45' ,
-            'image' => 'images/pickupchoco.jpg' ,
+            'price' => '45' ,
             'available' => true
         ]);
 
         // Pringles
         Items::create( [
             'name' => 'Pringles' ,
-            'price' => '0.90' ,
-            'image' => 'images/pringles.jpg' ,
+            'price' => '90' ,
             'available' => true
         ]);
 
         // Snickers (alle Sorten)
         Items::create( [
             'name' => 'Snickers (alle Sorten)' ,
-            'price' => '0.60' ,
-            'image' => 'images/snickers.jpg' ,
+            'price' => '60' ,
             'available' => true
         ]);
 
         // Studetenfutter
         Items::create( [
             'name' => 'Studentenfutter' ,
-            'price' => '0.70' ,
-            'image' => 'images/studetenfutter.jpg' ,
+            'price' => '70' ,
             'available' => true
         ]);
 
         // Twix (alle Sorten)
         Items::create( [
             'name' => 'Twix (alle Sorten)' ,
-            'price' => '0.60' ,
-            'image' => 'images/twix.jpg' ,
+            'price' => '60' ,
             'available' => true
         ]);
 
         // YumYum Suppe
         Items::create( [
             'name' => 'YumYum Suppe' ,
-            'price' => '0.50' ,
-            'image' => 'images/yumyum_suppe.jpg' ,
+            'price' => '50' ,
             'available' => true
         ]);
 
         // Zwiebelringe
         Items::create( [
             'name' => 'Zwiebelringe' ,
-            'price' => '0.70' ,
-            'image' => 'images/zwiebelringe.jpg' ,
+            'price' => '70' ,
             'available' => true
         ]);
 
